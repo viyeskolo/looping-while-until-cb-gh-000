@@ -1,10 +1,10 @@
 "../lib/while.rb"
 def using_while
   levitation_force = 6
-end
+
   #your code here
     #your code here
     while levitation_force < 10
       levitation_force += 1
-        puts "#{levitation_force}"
+        puts "Wingardium Leviosa"
 end
